@@ -2,7 +2,7 @@
 
 **最新版：升级V1.2**
 
-👉 [点这里下载最新版安装包](https://github.com/ttu80706-cell/tbclick-download/raw/main/TaobaoTimedClick-latest.apk)
+👉 [点这里下载最新版安装包](https://cdn.jsdelivr.net/gh/ttu80706-cell/tbclick-download@main/TaobaoTimedClick-latest.apk)
 
 请用**手机自带的浏览器**打开下载（不要在微信里直接点，微信会拦截安装包）。
 
@@ -10,4 +10,4 @@
 
 | 版本 | 下载 |
 |---|---|
-| 升级V1.2（2026-09-30） | [TaobaoTimedClick-V1.2.apk](https://github.com/ttu80706-cell/tbclick-download/raw/main/TaobaoTimedClick-V1.2.apk) |
+| 升级V1.2（2026-09-30） | [TaobaoTimedClick-V1.2.apk](https://cdn.jsdelivr.net/gh/ttu80706-cell/tbclick-download@main/TaobaoTimedClick-V1.2.apk) |
