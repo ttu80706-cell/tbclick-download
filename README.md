@@ -6,6 +6,11 @@
 
 请用**手机自带的浏览器**打开下载（不要在微信里直接点，微信会拦截安装包）。
 
+国内打不开时换这几条线路（都是 V1.6）：
+- 线路1：https://ghfast.top/https://github.com/ttu80706-cell/tbclick-download/raw/main/TaobaoTimedClick-V1.6.apk
+- 线路2：https://gcore.jsdelivr.net/gh/ttu80706-cell/tbclick-download@main/TaobaoTimedClick-V1.6.apk
+- 线路3：https://cdn.jsdelivr.net/gh/ttu80706-cell/tbclick-download@main/TaobaoTimedClick-V1.6.apk
+
 已经装了 V1.2～V1.5 的：直接安装覆盖就行，不用卸载，激活会保留。
 
 安装后需要激活才能使用：打开 App，把最上面显示的**设备码**发给把 App 发给你的人，拿到激活码后粘贴，点“激活”。
